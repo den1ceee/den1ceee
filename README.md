@@ -12,9 +12,14 @@
 # :man_technologist: &nbsp;About Me :
   
 I am a Junior Product Analyst  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
-  
+
+Education:<br><br>🎓 Bachelor’s degree in Sociology & Social Informatics (Higher School of Economics)<br>🎓 Master’s degree student in UX Analytics and Information System Design (Higher School of Economics)<br>🎓 Analytics 6 months program (Karpov.Courses)
+
+Work Experience:<br><br>💼 Intern Analyst at Tele2 Russia <br>💼 Customer Manager at Easy Try<br>
+
+Overall:<br>
 - 🔭 I’m currently looking for a job as a Data/Product Analyst in a team with high-quality professionals
-- 🌱 I have more than 2 years of experience in study projects with R, Python, SQL + 2 months of internship in Tele2 Data Analysis department
+- 🌱 I have more than 2 years of experience in various projects with R, Python, SQL 
 - ⚡ In my free time I take classes on Karpov.Courses and other study platforms
 - 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dakapitonov)
   
