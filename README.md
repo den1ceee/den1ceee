@@ -15,10 +15,10 @@ I am a Junior Product Analyst  <img src="https://media.giphy.com/media/WUlplcMpO
 
 Education:<br><br>🎓 Bachelor’s degree in Sociology & Social Informatics (Higher School of Economics)<br>🎓 Master’s degree student in UX Analytics and Information System Design (Higher School of Economics)<br>🎓 Analytics 6 months program (Karpov.Courses)
 
-Work Experience:<br><br>💼 Intern Analyst at Tele2 Russia <br>💼 Customer Manager at Easy Try<br>
+Work Experience:<br><br>💼 Junior Product Analyst at NaPopravku (08/2023 + )<br> 💼 Intern Analyst at Tele2 Russia (04/2022 - 06/2022) <br>💼 Customer Manager at Easy Try (10/2021 - 12/2021) <br>
 
 Overall:<br>
-- 🔭 I’m currently looking for a job as a Data/Product Analyst in a team with high-quality professionals
+- 🔭 I’m currently working at MedTech application ('NaPopravku')
 - 🌱 I have more than 2 years of experience in various projects with R, Python, SQL 
 - ⚡ In my free time I take classes on Karpov.Courses and other study platforms
 - 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dakapitonov)
