@@ -11,15 +11,15 @@
 
 # :man_technologist: &nbsp;About Me :
   
-I am a Junior Product Analyst  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
+I am a Product Analyst  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
 
 Education:<br><br>🎓 Bachelor’s degree in Sociology & Social Informatics ([Higher School of Economics](https://spb.hse.ru/en/ba/soc/))<br>🎓 Master’s degree student in UX Analytics and Information System Design ([Higher School of Economics](https://spb.hse.ru/en/ma/computer/))<br>🎓 Analytics 6 months program ([Karpov.Courses](https://karpov.courses/))
 
-Work Experience:<br><br>💼 Junior Product Analyst at [NaPopravku](napopravku.ru) (08/2023 + )<br> 💼 Intern Analyst at [Tele2 Russia](https://spb.tele2.ru/) (04/2022 - 06/2022) <br>💼 Customer Manager at [Easy Try](https://easytry.us/) (10/2021 - 12/2021) <br>
+Work Experience:<br><br>💼 Product Analyst at [NaPopravku](napopravku.ru) (08/2023 + )<br> 💼 Intern Analyst at [Tele2 Russia](https://spb.tele2.ru/) (04/2022 - 06/2022) <br>💼 Customer Manager at [Easy Try](https://easytry.us/) (10/2021 - 12/2021) <br>
 
 Overall:<br>
 - 🔭 I’m currently working at MedTech application ('NaPopravku')
-- 🌱 I have more than 2 years of experience in various projects with R, Python, SQL 
+- 🌱 I have more than 3 years of experience in various projects with Python, R, SQL 
 - ⚡ In my free time I take classes on Karpov.Courses and other study platforms
 - 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dakapitonov)
   
